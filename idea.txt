@@ -1,0 +1,3 @@
+1. Create base class Disease and its derived classes such as COVID-19, flu, tuberculosis.
+2. Each Disease has its own symptomps, the rate of spread and special treatment.
+3. Create a suitable test.
