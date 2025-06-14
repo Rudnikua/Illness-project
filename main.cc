@@ -50,3 +50,9 @@ public:
      }
 };
 
+void Treatment(const vector <Disease*> &diseases) {
+    for (const auto &disease : diseases) {
+        cout<<disease->treat()<<endl;
+    }
+}
+
