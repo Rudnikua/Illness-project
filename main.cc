@@ -23,3 +23,30 @@ public:
     virtual ~Disease() {}
 };
 
+class Virus : public Disease {
+public:
+     Virus(string _name, vector<string> _symptoms, double _contagiousness)
+         : Disease(_name, _symptoms, _contagiousness) {}
+     string treat() const override {
+        return "Treating viral infection " + name + " with antivirals.";
+     }
+};
+
+class Bacteria : public Disease {
+public:
+     Bacteria(string _name, vector<string> _symptoms, double _contagiousness)
+         : Disease(_name, _symptoms, _contagiousness) {}
+     string treat() const override {
+        return "Treating bacterial infection " + name + " with antibiotics.";
+     }
+};
+
+class GeneticDisease : public Disease {
+public:
+     GeneticDisease(string _name, vector<string> _symptoms, double _contagiousness)
+         : Disease(_name, _symptoms, _contagiousness) {}
+     string treat() const override {
+        return name + " requires genetic therapy or lifelong management.";
+     }
+};
+
