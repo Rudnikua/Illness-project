@@ -1,0 +1,10 @@
+^C:\ILLNESS-PROJECT\BUILD\CMAKEFILES\BB8973D36B2B079B3FFD456AD3BB6048\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Illness-project -BC:/Illness-project/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Illness-project/build/illness-project.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

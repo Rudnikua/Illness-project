@@ -1,0 +1,138 @@
+Start testing: Jun 15 16:38 Central European Daylight Time
+----------------------------------------------------------
+1/5 Testing: DiseaseTest.ConstructorInitializesFieldsCorrectly
+1/5 Test: DiseaseTest.ConstructorInitializesFieldsCorrectly
+Command: "C:/Illness-project/build/Debug/illness-tests.exe" "--gtest_filter=DiseaseTest.ConstructorInitializesFieldsCorrectly" "--gtest_also_run_disabled_tests"
+Directory: C:/Illness-project/build
+"DiseaseTest.ConstructorInitializesFieldsCorrectly" start time: Jun 15 16:38 Central European Daylight Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Illness-project\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = DiseaseTest.ConstructorInitializesFieldsCorrectly
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DiseaseTest
+[ RUN      ] DiseaseTest.ConstructorInitializesFieldsCorrectly
+[       OK ] DiseaseTest.ConstructorInitializesFieldsCorrectly (0 ms)
+[----------] 1 test from DiseaseTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DiseaseTest.ConstructorInitializesFieldsCorrectly" end time: Jun 15 16:38 Central European Daylight Time
+"DiseaseTest.ConstructorInitializesFieldsCorrectly" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/5 Testing: VirusTest.TreatReturnsCorrectString
+2/5 Test: VirusTest.TreatReturnsCorrectString
+Command: "C:/Illness-project/build/Debug/illness-tests.exe" "--gtest_filter=VirusTest.TreatReturnsCorrectString" "--gtest_also_run_disabled_tests"
+Directory: C:/Illness-project/build
+"VirusTest.TreatReturnsCorrectString" start time: Jun 15 16:38 Central European Daylight Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Illness-project\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = VirusTest.TreatReturnsCorrectString
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VirusTest
+[ RUN      ] VirusTest.TreatReturnsCorrectString
+[       OK ] VirusTest.TreatReturnsCorrectString (0 ms)
+[----------] 1 test from VirusTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"VirusTest.TreatReturnsCorrectString" end time: Jun 15 16:38 Central European Daylight Time
+"VirusTest.TreatReturnsCorrectString" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/5 Testing: BacteriaTest.TreatReturnsCorrectString
+3/5 Test: BacteriaTest.TreatReturnsCorrectString
+Command: "C:/Illness-project/build/Debug/illness-tests.exe" "--gtest_filter=BacteriaTest.TreatReturnsCorrectString" "--gtest_also_run_disabled_tests"
+Directory: C:/Illness-project/build
+"BacteriaTest.TreatReturnsCorrectString" start time: Jun 15 16:38 Central European Daylight Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Illness-project\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = BacteriaTest.TreatReturnsCorrectString
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BacteriaTest
+[ RUN      ] BacteriaTest.TreatReturnsCorrectString
+[       OK ] BacteriaTest.TreatReturnsCorrectString (0 ms)
+[----------] 1 test from BacteriaTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BacteriaTest.TreatReturnsCorrectString" end time: Jun 15 16:38 Central European Daylight Time
+"BacteriaTest.TreatReturnsCorrectString" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/5 Testing: GeneticDiseaseTest.TreatReturnsCorrectString
+4/5 Test: GeneticDiseaseTest.TreatReturnsCorrectString
+Command: "C:/Illness-project/build/Debug/illness-tests.exe" "--gtest_filter=GeneticDiseaseTest.TreatReturnsCorrectString" "--gtest_also_run_disabled_tests"
+Directory: C:/Illness-project/build
+"GeneticDiseaseTest.TreatReturnsCorrectString" start time: Jun 15 16:38 Central European Daylight Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Illness-project\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = GeneticDiseaseTest.TreatReturnsCorrectString
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from GeneticDiseaseTest
+[ RUN      ] GeneticDiseaseTest.TreatReturnsCorrectString
+[       OK ] GeneticDiseaseTest.TreatReturnsCorrectString (0 ms)
+[----------] 1 test from GeneticDiseaseTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"GeneticDiseaseTest.TreatReturnsCorrectString" end time: Jun 15 16:38 Central European Daylight Time
+"GeneticDiseaseTest.TreatReturnsCorrectString" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/5 Testing: TreatmentFunctionTest.CallsTreatOnAllDerivedClasses
+5/5 Test: TreatmentFunctionTest.CallsTreatOnAllDerivedClasses
+Command: "C:/Illness-project/build/Debug/illness-tests.exe" "--gtest_filter=TreatmentFunctionTest.CallsTreatOnAllDerivedClasses" "--gtest_also_run_disabled_tests"
+Directory: C:/Illness-project/build
+"TreatmentFunctionTest.CallsTreatOnAllDerivedClasses" start time: Jun 15 16:38 Central European Daylight Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Illness-project\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = TreatmentFunctionTest.CallsTreatOnAllDerivedClasses
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TreatmentFunctionTest
+[ RUN      ] TreatmentFunctionTest.CallsTreatOnAllDerivedClasses
+[       OK ] TreatmentFunctionTest.CallsTreatOnAllDerivedClasses (0 ms)
+[----------] 1 test from TreatmentFunctionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TreatmentFunctionTest.CallsTreatOnAllDerivedClasses" end time: Jun 15 16:38 Central European Daylight Time
+"TreatmentFunctionTest.CallsTreatOnAllDerivedClasses" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 15 16:38 Central European Daylight Time

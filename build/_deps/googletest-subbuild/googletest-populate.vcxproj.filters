@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Illness-project\build\_deps\googletest-subbuild\CMakeFiles\a8a7c2dc8ee9db7503e1f81040a538c1\googletest-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Illness-project\build\_deps\googletest-subbuild\CMakeFiles\a8a7c2dc8ee9db7503e1f81040a538c1\googletest-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Illness-project\build\_deps\googletest-subbuild\CMakeFiles\a8a7c2dc8ee9db7503e1f81040a538c1\googletest-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Illness-project\build\_deps\googletest-subbuild\CMakeFiles\a8a7c2dc8ee9db7503e1f81040a538c1\googletest-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Illness-project\build\_deps\googletest-subbuild\CMakeFiles\a8a7c2dc8ee9db7503e1f81040a538c1\googletest-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Illness-project\build\_deps\googletest-subbuild\CMakeFiles\a8a7c2dc8ee9db7503e1f81040a538c1\googletest-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Illness-project\build\_deps\googletest-subbuild\CMakeFiles\a8a7c2dc8ee9db7503e1f81040a538c1\googletest-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Illness-project\build\_deps\googletest-subbuild\CMakeFiles\a8a7c2dc8ee9db7503e1f81040a538c1\googletest-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Illness-project\build\_deps\googletest-subbuild\CMakeFiles\e3581361e82c9408acae835ddbfa58c5\googletest-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Illness-project\build\_deps\googletest-subbuild\CMakeFiles\c66095412d24c02292daa95694e378fc\googletest-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Illness-project\build\_deps\googletest-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Illness-project\build\_deps\googletest-subbuild\CMakeFiles\googletest-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{34A1F8C2-57BD-3E74-8F77-E4FE6097611A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

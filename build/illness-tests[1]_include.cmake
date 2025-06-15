@@ -1,0 +1,5 @@
+if(EXISTS "C:/Illness-project/build/illness-tests[1]_tests.cmake")
+  include("C:/Illness-project/build/illness-tests[1]_tests.cmake")
+else()
+  add_test(illness-tests_NOT_BUILT illness-tests_NOT_BUILT)
+endif()

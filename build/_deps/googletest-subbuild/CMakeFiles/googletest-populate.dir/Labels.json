@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Illness-project/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate"
+		},
+		{
+			"file" : "C:/Illness-project/build/_deps/googletest-subbuild/CMakeFiles/c66095412d24c02292daa95694e378fc/googletest-populate.rule"
+		},
+		{
+			"file" : "C:/Illness-project/build/_deps/googletest-subbuild/CMakeFiles/e3581361e82c9408acae835ddbfa58c5/googletest-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Illness-project/build/_deps/googletest-subbuild/CMakeFiles/a8a7c2dc8ee9db7503e1f81040a538c1/googletest-populate-build.rule"
+		},
+		{
+			"file" : "C:/Illness-project/build/_deps/googletest-subbuild/CMakeFiles/a8a7c2dc8ee9db7503e1f81040a538c1/googletest-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Illness-project/build/_deps/googletest-subbuild/CMakeFiles/a8a7c2dc8ee9db7503e1f81040a538c1/googletest-populate-download.rule"
+		},
+		{
+			"file" : "C:/Illness-project/build/_deps/googletest-subbuild/CMakeFiles/a8a7c2dc8ee9db7503e1f81040a538c1/googletest-populate-install.rule"
+		},
+		{
+			"file" : "C:/Illness-project/build/_deps/googletest-subbuild/CMakeFiles/a8a7c2dc8ee9db7503e1f81040a538c1/googletest-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Illness-project/build/_deps/googletest-subbuild/CMakeFiles/a8a7c2dc8ee9db7503e1f81040a538c1/googletest-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Illness-project/build/_deps/googletest-subbuild/CMakeFiles/a8a7c2dc8ee9db7503e1f81040a538c1/googletest-populate-test.rule"
+		},
+		{
+			"file" : "C:/Illness-project/build/_deps/googletest-subbuild/CMakeFiles/a8a7c2dc8ee9db7503e1f81040a538c1/googletest-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest-populate"
+		],
+		"name" : "googletest-populate"
+	}
+}
