@@ -1,6 +1,6 @@
-DiseaseTest.ConstructorInitializesFieldsCorrectly 1 0.0087602
-VirusTest.TreatReturnsCorrectString 1 0.0089714
-BacteriaTest.TreatReturnsCorrectString 1 0.0086241
-GeneticDiseaseTest.TreatReturnsCorrectString 1 0.0080847
-TreatmentFunctionTest.CallsTreatOnAllDerivedClasses 1 0.0090089
+DiseaseTest.ConstructorInitializesFieldsCorrectly 1 0.0132994
+VirusTest.TreatReturnsCorrectString 1 0.0104568
+BacteriaTest.TreatReturnsCorrectString 1 0.0095654
+GeneticDiseaseTest.TreatReturnsCorrectString 1 0.0083579
+TreatmentFunctionTest.CallsTreatOnAllDerivedClasses 1 0.0080929
 ---

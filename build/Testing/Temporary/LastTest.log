@@ -1,10 +1,10 @@
-Start testing: Jun 15 16:38 Central European Daylight Time
+Start testing: Jun 16 13:15 Central European Daylight Time
 ----------------------------------------------------------
 1/5 Testing: DiseaseTest.ConstructorInitializesFieldsCorrectly
 1/5 Test: DiseaseTest.ConstructorInitializesFieldsCorrectly
 Command: "C:/Illness-project/build/Debug/illness-tests.exe" "--gtest_filter=DiseaseTest.ConstructorInitializesFieldsCorrectly" "--gtest_also_run_disabled_tests"
 Directory: C:/Illness-project/build
-"DiseaseTest.ConstructorInitializesFieldsCorrectly" start time: Jun 15 16:38 Central European Daylight Time
+"DiseaseTest.ConstructorInitializesFieldsCorrectly" start time: Jun 16 13:15 Central European Daylight Time
 Output:
 ----------------------------------------------------------
 Running main() from C:\Illness-project\build\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -13,17 +13,17 @@ Note: Google Test filter = DiseaseTest.ConstructorInitializesFieldsCorrectly
 [----------] Global test environment set-up.
 [----------] 1 test from DiseaseTest
 [ RUN      ] DiseaseTest.ConstructorInitializesFieldsCorrectly
-[       OK ] DiseaseTest.ConstructorInitializesFieldsCorrectly (0 ms)
-[----------] 1 test from DiseaseTest (0 ms total)
+[       OK ] DiseaseTest.ConstructorInitializesFieldsCorrectly (3 ms)
+[----------] 1 test from DiseaseTest (3 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (0 ms total)
+[==========] 1 test from 1 test suite ran. (4 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"DiseaseTest.ConstructorInitializesFieldsCorrectly" end time: Jun 15 16:38 Central European Daylight Time
+"DiseaseTest.ConstructorInitializesFieldsCorrectly" end time: Jun 16 13:15 Central European Daylight Time
 "DiseaseTest.ConstructorInitializesFieldsCorrectly" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -31,7 +31,7 @@ Test Passed.
 2/5 Test: VirusTest.TreatReturnsCorrectString
 Command: "C:/Illness-project/build/Debug/illness-tests.exe" "--gtest_filter=VirusTest.TreatReturnsCorrectString" "--gtest_also_run_disabled_tests"
 Directory: C:/Illness-project/build
-"VirusTest.TreatReturnsCorrectString" start time: Jun 15 16:38 Central European Daylight Time
+"VirusTest.TreatReturnsCorrectString" start time: Jun 16 13:15 Central European Daylight Time
 Output:
 ----------------------------------------------------------
 Running main() from C:\Illness-project\build\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -50,7 +50,7 @@ Note: Google Test filter = VirusTest.TreatReturnsCorrectString
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"VirusTest.TreatReturnsCorrectString" end time: Jun 15 16:38 Central European Daylight Time
+"VirusTest.TreatReturnsCorrectString" end time: Jun 16 13:15 Central European Daylight Time
 "VirusTest.TreatReturnsCorrectString" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -58,7 +58,7 @@ Test Passed.
 3/5 Test: BacteriaTest.TreatReturnsCorrectString
 Command: "C:/Illness-project/build/Debug/illness-tests.exe" "--gtest_filter=BacteriaTest.TreatReturnsCorrectString" "--gtest_also_run_disabled_tests"
 Directory: C:/Illness-project/build
-"BacteriaTest.TreatReturnsCorrectString" start time: Jun 15 16:38 Central European Daylight Time
+"BacteriaTest.TreatReturnsCorrectString" start time: Jun 16 13:15 Central European Daylight Time
 Output:
 ----------------------------------------------------------
 Running main() from C:\Illness-project\build\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -77,7 +77,7 @@ Note: Google Test filter = BacteriaTest.TreatReturnsCorrectString
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"BacteriaTest.TreatReturnsCorrectString" end time: Jun 15 16:38 Central European Daylight Time
+"BacteriaTest.TreatReturnsCorrectString" end time: Jun 16 13:15 Central European Daylight Time
 "BacteriaTest.TreatReturnsCorrectString" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -85,7 +85,7 @@ Test Passed.
 4/5 Test: GeneticDiseaseTest.TreatReturnsCorrectString
 Command: "C:/Illness-project/build/Debug/illness-tests.exe" "--gtest_filter=GeneticDiseaseTest.TreatReturnsCorrectString" "--gtest_also_run_disabled_tests"
 Directory: C:/Illness-project/build
-"GeneticDiseaseTest.TreatReturnsCorrectString" start time: Jun 15 16:38 Central European Daylight Time
+"GeneticDiseaseTest.TreatReturnsCorrectString" start time: Jun 16 13:15 Central European Daylight Time
 Output:
 ----------------------------------------------------------
 Running main() from C:\Illness-project\build\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -104,7 +104,7 @@ Note: Google Test filter = GeneticDiseaseTest.TreatReturnsCorrectString
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GeneticDiseaseTest.TreatReturnsCorrectString" end time: Jun 15 16:38 Central European Daylight Time
+"GeneticDiseaseTest.TreatReturnsCorrectString" end time: Jun 16 13:15 Central European Daylight Time
 "GeneticDiseaseTest.TreatReturnsCorrectString" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -112,7 +112,7 @@ Test Passed.
 5/5 Test: TreatmentFunctionTest.CallsTreatOnAllDerivedClasses
 Command: "C:/Illness-project/build/Debug/illness-tests.exe" "--gtest_filter=TreatmentFunctionTest.CallsTreatOnAllDerivedClasses" "--gtest_also_run_disabled_tests"
 Directory: C:/Illness-project/build
-"TreatmentFunctionTest.CallsTreatOnAllDerivedClasses" start time: Jun 15 16:38 Central European Daylight Time
+"TreatmentFunctionTest.CallsTreatOnAllDerivedClasses" start time: Jun 16 13:15 Central European Daylight Time
 Output:
 ----------------------------------------------------------
 Running main() from C:\Illness-project\build\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -131,8 +131,8 @@ Note: Google Test filter = TreatmentFunctionTest.CallsTreatOnAllDerivedClasses
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"TreatmentFunctionTest.CallsTreatOnAllDerivedClasses" end time: Jun 15 16:38 Central European Daylight Time
+"TreatmentFunctionTest.CallsTreatOnAllDerivedClasses" end time: Jun 16 13:15 Central European Daylight Time
 "TreatmentFunctionTest.CallsTreatOnAllDerivedClasses" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Jun 15 16:38 Central European Daylight Time
+End testing: Jun 16 13:15 Central European Daylight Time

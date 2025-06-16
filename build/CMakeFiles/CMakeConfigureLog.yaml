@@ -24,7 +24,7 @@ events:
       The output was:
       0
       MSBuild version 17.13.19+0d9f5a35a for .NET Framework
-      Build started 15.06.2025 16:37:36.
+      Build started 16.06.2025 13:14:29.
       
       Project "C:\\Illness-project\\build\\CMakeFiles\\4.0.3\\CompilerIdC\\CompilerIdC.vcxproj" on node 1 (default targets).
       PrepareForBuild:
@@ -53,7 +53,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:00.43
+      Time Elapsed 00:00:00.71
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -79,7 +79,7 @@ events:
       The output was:
       0
       MSBuild version 17.13.19+0d9f5a35a for .NET Framework
-      Build started 15.06.2025 16:37:37.
+      Build started 16.06.2025 13:14:31.
       
       Project "C:\\Illness-project\\build\\CMakeFiles\\4.0.3\\CompilerIdCXX\\CompilerIdCXX.vcxproj" on node 1 (default targets).
       PrepareForBuild:
@@ -108,7 +108,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:00.43
+      Time Elapsed 00:00:00.52
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -127,8 +127,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-l8jjto"
-      binary: "C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-l8jjto"
+      source: "C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-8oz12b"
+      binary: "C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-8oz12b"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -137,40 +137,40 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-l8jjto'
+        Change Dir: 'C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-8oz12b'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_8f77a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_5dab1.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         MSBuild version 17.13.19+0d9f5a35a for .NET Framework
-        Build started 15.06.2025 16:37:38.
+        Build started 16.06.2025 13:14:33.
         
-        Project "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l8jjto\\cmTC_8f77a.vcxproj" on node 1 (default targets).
+        Project "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-8oz12b\\cmTC_5dab1.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_8f77a.dir\\Debug\\".
+          Creating directory "cmTC_5dab1.dir\\Debug\\".
           Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
-          Creating directory "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l8jjto\\Debug\\".
-          Creating directory "cmTC_8f77a.dir\\Debug\\cmTC_8f77a.tlog\\".
+          Creating directory "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-8oz12b\\Debug\\".
+          Creating directory "cmTC_5dab1.dir\\Debug\\cmTC_5dab1.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_8f77a.dir\\Debug\\cmTC_8f77a.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
-          Touching "cmTC_8f77a.dir\\Debug\\cmTC_8f77a.tlog\\unsuccessfulbuild".
+          Creating "cmTC_5dab1.dir\\Debug\\cmTC_5dab1.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_5dab1.dir\\Debug\\cmTC_5dab1.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8f77a.dir\\Debug\\\\" /Fd"cmTC_8f77a.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.0\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5dab1.dir\\Debug\\\\" /Fd"cmTC_5dab1.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.0\\Modules\\CMakeCCompilerABI.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.43.34809 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8f77a.dir\\Debug\\\\" /Fd"cmTC_8f77a.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.0\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5dab1.dir\\Debug\\\\" /Fd"cmTC_5dab1.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.0\\Modules\\CMakeCCompilerABI.c"
           CMakeCCompilerABI.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l8jjto\\Debug\\cmTC_8f77a.exe" /INCREMENTAL /ILK:"cmTC_8f77a.dir\\Debug\\cmTC_8f77a.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-l8jjto/Debug/cmTC_8f77a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-l8jjto/Debug/cmTC_8f77a.lib" /MACHINE:X64  /machine:x64 cmTC_8f77a.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_8f77a.vcxproj -> C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l8jjto\\Debug\\cmTC_8f77a.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-8oz12b\\Debug\\cmTC_5dab1.exe" /INCREMENTAL /ILK:"cmTC_5dab1.dir\\Debug\\cmTC_5dab1.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-8oz12b/Debug/cmTC_5dab1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-8oz12b/Debug/cmTC_5dab1.lib" /MACHINE:X64  /machine:x64 cmTC_5dab1.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_5dab1.vcxproj -> C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-8oz12b\\Debug\\cmTC_5dab1.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_8f77a.dir\\Debug\\cmTC_8f77a.tlog\\unsuccessfulbuild".
-          Touching "cmTC_8f77a.dir\\Debug\\cmTC_8f77a.tlog\\cmTC_8f77a.lastbuildstate".
-        Done Building Project "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l8jjto\\cmTC_8f77a.vcxproj" (default targets).
+          Deleting file "cmTC_5dab1.dir\\Debug\\cmTC_5dab1.tlog\\unsuccessfulbuild".
+          Touching "cmTC_5dab1.dir\\Debug\\cmTC_5dab1.tlog\\cmTC_5dab1.lastbuildstate".
+        Done Building Project "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-8oz12b\\cmTC_5dab1.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:00.41
+        Time Elapsed 00:00:00.45
         
       exitCode: 0
   -
@@ -210,8 +210,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-4mdg87"
-      binary: "C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-4mdg87"
+      source: "C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-jluzoa"
+      binary: "C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-jluzoa"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -221,40 +221,40 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-4mdg87'
+        Change Dir: 'C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-jluzoa'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_35956.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_d1fc0.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         MSBuild version 17.13.19+0d9f5a35a for .NET Framework
-        Build started 15.06.2025 16:37:38.
+        Build started 16.06.2025 13:14:34.
         
-        Project "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4mdg87\\cmTC_35956.vcxproj" on node 1 (default targets).
+        Project "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jluzoa\\cmTC_d1fc0.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_35956.dir\\Debug\\".
+          Creating directory "cmTC_d1fc0.dir\\Debug\\".
           Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
-          Creating directory "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4mdg87\\Debug\\".
-          Creating directory "cmTC_35956.dir\\Debug\\cmTC_35956.tlog\\".
+          Creating directory "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jluzoa\\Debug\\".
+          Creating directory "cmTC_d1fc0.dir\\Debug\\cmTC_d1fc0.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_35956.dir\\Debug\\cmTC_35956.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
-          Touching "cmTC_35956.dir\\Debug\\cmTC_35956.tlog\\unsuccessfulbuild".
+          Creating "cmTC_d1fc0.dir\\Debug\\cmTC_d1fc0.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_d1fc0.dir\\Debug\\cmTC_d1fc0.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_35956.dir\\Debug\\\\" /Fd"cmTC_35956.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.0\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_d1fc0.dir\\Debug\\\\" /Fd"cmTC_d1fc0.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.0\\Modules\\CMakeCXXCompilerABI.cpp"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.43.34809 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_35956.dir\\Debug\\\\" /Fd"cmTC_35956.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.0\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_d1fc0.dir\\Debug\\\\" /Fd"cmTC_d1fc0.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.0\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4mdg87\\Debug\\cmTC_35956.exe" /INCREMENTAL /ILK:"cmTC_35956.dir\\Debug\\cmTC_35956.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-4mdg87/Debug/cmTC_35956.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-4mdg87/Debug/cmTC_35956.lib" /MACHINE:X64  /machine:x64 cmTC_35956.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_35956.vcxproj -> C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4mdg87\\Debug\\cmTC_35956.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jluzoa\\Debug\\cmTC_d1fc0.exe" /INCREMENTAL /ILK:"cmTC_d1fc0.dir\\Debug\\cmTC_d1fc0.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-jluzoa/Debug/cmTC_d1fc0.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-jluzoa/Debug/cmTC_d1fc0.lib" /MACHINE:X64  /machine:x64 cmTC_d1fc0.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_d1fc0.vcxproj -> C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jluzoa\\Debug\\cmTC_d1fc0.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_35956.dir\\Debug\\cmTC_35956.tlog\\unsuccessfulbuild".
-          Touching "cmTC_35956.dir\\Debug\\cmTC_35956.tlog\\cmTC_35956.lastbuildstate".
-        Done Building Project "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4mdg87\\cmTC_35956.vcxproj" (default targets).
+          Deleting file "cmTC_d1fc0.dir\\Debug\\cmTC_d1fc0.tlog\\unsuccessfulbuild".
+          Touching "cmTC_d1fc0.dir\\Debug\\cmTC_d1fc0.tlog\\cmTC_d1fc0.lastbuildstate".
+        Done Building Project "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jluzoa\\cmTC_d1fc0.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:00.41
+        Time Elapsed 00:00:00.45
         
       exitCode: 0
   -
@@ -297,8 +297,8 @@ events:
     checks:
       - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
     directories:
-      source: "C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-lk1chx"
-      binary: "C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-lk1chx"
+      source: "C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-ru17rw"
+      binary: "C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-ru17rw"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
@@ -306,40 +306,40 @@ events:
       variable: "CMAKE_HAVE_LIBC_PTHREAD"
       cached: true
       stdout: |
-        Change Dir: 'C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-lk1chx'
+        Change Dir: 'C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-ru17rw'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_c31cd.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_56b8e.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         MSBuild version 17.13.19+0d9f5a35a for .NET Framework
-        Build started 15.06.2025 16:37:42.
+        Build started 16.06.2025 13:14:39.
         
-        Project "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lk1chx\\cmTC_c31cd.vcxproj" on node 1 (default targets).
+        Project "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ru17rw\\cmTC_56b8e.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_c31cd.dir\\Debug\\".
+          Creating directory "cmTC_56b8e.dir\\Debug\\".
           Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
-          Creating directory "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lk1chx\\Debug\\".
-          Creating directory "cmTC_c31cd.dir\\Debug\\cmTC_c31cd.tlog\\".
+          Creating directory "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ru17rw\\Debug\\".
+          Creating directory "cmTC_56b8e.dir\\Debug\\cmTC_56b8e.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_c31cd.dir\\Debug\\cmTC_c31cd.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
-          Touching "cmTC_c31cd.dir\\Debug\\cmTC_c31cd.tlog\\unsuccessfulbuild".
+          Creating "cmTC_56b8e.dir\\Debug\\cmTC_56b8e.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_56b8e.dir\\Debug\\cmTC_56b8e.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c31cd.dir\\Debug\\\\" /Fd"cmTC_c31cd.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lk1chx\\src.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_56b8e.dir\\Debug\\\\" /Fd"cmTC_56b8e.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ru17rw\\src.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.43.34809 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c31cd.dir\\Debug\\\\" /Fd"cmTC_c31cd.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lk1chx\\src.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_56b8e.dir\\Debug\\\\" /Fd"cmTC_56b8e.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ru17rw\\src.c"
           src.c
-        C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lk1chx\\src.c(1,10): error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lk1chx\\cmTC_c31cd.vcxproj]
-        Done Building Project "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lk1chx\\cmTC_c31cd.vcxproj" (default targets) -- FAILED.
+        C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ru17rw\\src.c(1,10): error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ru17rw\\cmTC_56b8e.vcxproj]
+        Done Building Project "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ru17rw\\cmTC_56b8e.vcxproj" (default targets) -- FAILED.
         
         Build FAILED.
         
-        "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lk1chx\\cmTC_c31cd.vcxproj" (default target) (1) ->
+        "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ru17rw\\cmTC_56b8e.vcxproj" (default target) (1) ->
         (ClCompile target) -> 
-          C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lk1chx\\src.c(1,10): error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lk1chx\\cmTC_c31cd.vcxproj]
+          C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ru17rw\\src.c(1,10): error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ru17rw\\cmTC_56b8e.vcxproj]
         
             0 Warning(s)
             1 Error(s)
         
-        Time Elapsed 00:00:00.26
+        Time Elapsed 00:00:00.34
         
       exitCode: 1
   -
@@ -353,8 +353,8 @@ events:
     checks:
       - "Looking for pthread_create in pthreads"
     directories:
-      source: "C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-ckvtqa"
-      binary: "C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-ckvtqa"
+      source: "C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-7613is"
+      binary: "C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-7613is"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
@@ -362,42 +362,42 @@ events:
       variable: "CMAKE_HAVE_PTHREADS_CREATE"
       cached: true
       stdout: |
-        Change Dir: 'C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-ckvtqa'
+        Change Dir: 'C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-7613is'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_b3c8b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_b25ea.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         MSBuild version 17.13.19+0d9f5a35a for .NET Framework
-        Build started 15.06.2025 16:37:42.
+        Build started 16.06.2025 13:14:40.
         
-        Project "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ckvtqa\\cmTC_b3c8b.vcxproj" on node 1 (default targets).
+        Project "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7613is\\cmTC_b25ea.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_b3c8b.dir\\Debug\\".
+          Creating directory "cmTC_b25ea.dir\\Debug\\".
           Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
-          Creating directory "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ckvtqa\\Debug\\".
-          Creating directory "cmTC_b3c8b.dir\\Debug\\cmTC_b3c8b.tlog\\".
+          Creating directory "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7613is\\Debug\\".
+          Creating directory "cmTC_b25ea.dir\\Debug\\cmTC_b25ea.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_b3c8b.dir\\Debug\\cmTC_b3c8b.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
-          Touching "cmTC_b3c8b.dir\\Debug\\cmTC_b3c8b.tlog\\unsuccessfulbuild".
+          Creating "cmTC_b25ea.dir\\Debug\\cmTC_b25ea.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_b25ea.dir\\Debug\\cmTC_b25ea.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b3c8b.dir\\Debug\\\\" /Fd"cmTC_b3c8b.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ckvtqa\\CheckFunctionExists.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b25ea.dir\\Debug\\\\" /Fd"cmTC_b25ea.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7613is\\CheckFunctionExists.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.43.34809 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b3c8b.dir\\Debug\\\\" /Fd"cmTC_b3c8b.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ckvtqa\\CheckFunctionExists.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b25ea.dir\\Debug\\\\" /Fd"cmTC_b25ea.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7613is\\CheckFunctionExists.c"
           CheckFunctionExists.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ckvtqa\\Debug\\cmTC_b3c8b.exe" /INCREMENTAL /ILK:"cmTC_b3c8b.dir\\Debug\\cmTC_b3c8b.ilk" /NOLOGO pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-ckvtqa/Debug/cmTC_b3c8b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-ckvtqa/Debug/cmTC_b3c8b.lib" /MACHINE:X64  /machine:x64 cmTC_b3c8b.dir\\Debug\\CheckFunctionExists.obj
-        LINK : fatal error LNK1104: cannot open file 'pthreads.lib' [C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ckvtqa\\cmTC_b3c8b.vcxproj]
-        Done Building Project "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ckvtqa\\cmTC_b3c8b.vcxproj" (default targets) -- FAILED.
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7613is\\Debug\\cmTC_b25ea.exe" /INCREMENTAL /ILK:"cmTC_b25ea.dir\\Debug\\cmTC_b25ea.ilk" /NOLOGO pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-7613is/Debug/cmTC_b25ea.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-7613is/Debug/cmTC_b25ea.lib" /MACHINE:X64  /machine:x64 cmTC_b25ea.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: cannot open file 'pthreads.lib' [C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7613is\\cmTC_b25ea.vcxproj]
+        Done Building Project "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7613is\\cmTC_b25ea.vcxproj" (default targets) -- FAILED.
         
         Build FAILED.
         
-        "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ckvtqa\\cmTC_b3c8b.vcxproj" (default target) (1) ->
+        "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7613is\\cmTC_b25ea.vcxproj" (default target) (1) ->
         (Link target) -> 
-          LINK : fatal error LNK1104: cannot open file 'pthreads.lib' [C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ckvtqa\\cmTC_b3c8b.vcxproj]
+          LINK : fatal error LNK1104: cannot open file 'pthreads.lib' [C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7613is\\cmTC_b25ea.vcxproj]
         
             0 Warning(s)
             1 Error(s)
         
-        Time Elapsed 00:00:00.33
+        Time Elapsed 00:00:00.35
         
       exitCode: 1
   -
@@ -411,8 +411,8 @@ events:
     checks:
       - "Looking for pthread_create in pthread"
     directories:
-      source: "C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-3zkphl"
-      binary: "C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-3zkphl"
+      source: "C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-n2ikfw"
+      binary: "C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-n2ikfw"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
@@ -420,42 +420,42 @@ events:
       variable: "CMAKE_HAVE_PTHREAD_CREATE"
       cached: true
       stdout: |
-        Change Dir: 'C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-3zkphl'
+        Change Dir: 'C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-n2ikfw'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_60829.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_12617.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         MSBuild version 17.13.19+0d9f5a35a for .NET Framework
-        Build started 15.06.2025 16:37:43.
+        Build started 16.06.2025 13:14:41.
         
-        Project "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3zkphl\\cmTC_60829.vcxproj" on node 1 (default targets).
+        Project "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-n2ikfw\\cmTC_12617.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_60829.dir\\Debug\\".
+          Creating directory "cmTC_12617.dir\\Debug\\".
           Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
-          Creating directory "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3zkphl\\Debug\\".
-          Creating directory "cmTC_60829.dir\\Debug\\cmTC_60829.tlog\\".
+          Creating directory "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-n2ikfw\\Debug\\".
+          Creating directory "cmTC_12617.dir\\Debug\\cmTC_12617.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_60829.dir\\Debug\\cmTC_60829.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
-          Touching "cmTC_60829.dir\\Debug\\cmTC_60829.tlog\\unsuccessfulbuild".
+          Creating "cmTC_12617.dir\\Debug\\cmTC_12617.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_12617.dir\\Debug\\cmTC_12617.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_60829.dir\\Debug\\\\" /Fd"cmTC_60829.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3zkphl\\CheckFunctionExists.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_12617.dir\\Debug\\\\" /Fd"cmTC_12617.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-n2ikfw\\CheckFunctionExists.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.43.34809 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_60829.dir\\Debug\\\\" /Fd"cmTC_60829.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3zkphl\\CheckFunctionExists.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_12617.dir\\Debug\\\\" /Fd"cmTC_12617.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-n2ikfw\\CheckFunctionExists.c"
           CheckFunctionExists.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3zkphl\\Debug\\cmTC_60829.exe" /INCREMENTAL /ILK:"cmTC_60829.dir\\Debug\\cmTC_60829.ilk" /NOLOGO pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-3zkphl/Debug/cmTC_60829.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-3zkphl/Debug/cmTC_60829.lib" /MACHINE:X64  /machine:x64 cmTC_60829.dir\\Debug\\CheckFunctionExists.obj
-        LINK : fatal error LNK1104: cannot open file 'pthread.lib' [C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3zkphl\\cmTC_60829.vcxproj]
-        Done Building Project "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3zkphl\\cmTC_60829.vcxproj" (default targets) -- FAILED.
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-n2ikfw\\Debug\\cmTC_12617.exe" /INCREMENTAL /ILK:"cmTC_12617.dir\\Debug\\cmTC_12617.ilk" /NOLOGO pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-n2ikfw/Debug/cmTC_12617.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Illness-project/build/CMakeFiles/CMakeScratch/TryCompile-n2ikfw/Debug/cmTC_12617.lib" /MACHINE:X64  /machine:x64 cmTC_12617.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: cannot open file 'pthread.lib' [C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-n2ikfw\\cmTC_12617.vcxproj]
+        Done Building Project "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-n2ikfw\\cmTC_12617.vcxproj" (default targets) -- FAILED.
         
         Build FAILED.
         
-        "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3zkphl\\cmTC_60829.vcxproj" (default target) (1) ->
+        "C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-n2ikfw\\cmTC_12617.vcxproj" (default target) (1) ->
         (Link target) -> 
-          LINK : fatal error LNK1104: cannot open file 'pthread.lib' [C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3zkphl\\cmTC_60829.vcxproj]
+          LINK : fatal error LNK1104: cannot open file 'pthread.lib' [C:\\Illness-project\\build\\CMakeFiles\\CMakeScratch\\TryCompile-n2ikfw\\cmTC_12617.vcxproj]
         
             0 Warning(s)
             1 Error(s)
         
-        Time Elapsed 00:00:00.33
+        Time Elapsed 00:00:00.36
         
       exitCode: 1
 ...

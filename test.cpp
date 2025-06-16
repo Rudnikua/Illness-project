@@ -1,6 +1,5 @@
 #include <gtest/gtest.h>
 #include "Diseases.h"
-#include <sstream>
 
 TEST(DiseaseTest, ConstructorInitializesFieldsCorrectly) {
     vector<string> symptoms = {"fever", "cough"};
